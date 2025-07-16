@@ -18,5 +18,9 @@
     "scriptable-objects",
     "VD29"
   ],
-  "type": "git"
+  "type": "git",
+  "files": [
+    "Editor",
+    "Editor/MissingReferencesFinder.asmdef"
+  ]
 }
