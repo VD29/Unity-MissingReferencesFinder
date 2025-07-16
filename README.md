@@ -1,10 +1,10 @@
-# 🔍 Missing References Finder
+🔍 Missing References Finder
 
 A Unity Editor tool to **find and optionally delete missing references and missing scripts** in Prefabs and ScriptableObjects.
 
 ---
 
-## ✨ Features
+✨ Features
 
 ✅ Scan all Prefabs for:
 - Missing scripts  
@@ -21,19 +21,28 @@ A Unity Editor tool to **find and optionally delete missing references and missi
 
 ---
 
-## 🚀 Installation
+🚀 Installation
 
-1. Copy `MissingReferencesFinder.cs` into your project under an `Editor` folder:
-   YourProject/
+🔧 Option 1. Install via UPM (Git URL)
+
+1. Open Unity Package Manager
+
+2. Click + > Add package from git URL...
+
+3. Paste: https://github.com/yourusername/MissingReferencesFinder.git
+
+📁 Option 2. Manual install
+
+1. Copy MissingReferencesFinder.cs into your project under an Editor folder:
+
+YourProject/
 └── Assets/
-└── Editor/
-└── MissingReferencesFinder.cs
-
-2. In Unity, go to **Tools > Find Missing References** to open the tool window.
+    └── Editor/
+        └── MissingReferencesFinder.cs
 
 ---
 
-## ⚡️ Usage
+⚡ Usage
 
 1. Open the window:  
    **Tools > Find Missing References**
@@ -49,13 +58,13 @@ A Unity Editor tool to **find and optionally delete missing references and missi
 
 ---
 
-## ✏️ Contributing
+✏️ Contributing
 
 Pull requests and feature suggestions are welcome!
 
 ---
 
-## 📬 Contact
+📬 Contact
 
 Developed by VD29
 If you find this useful, please star ⭐ the repo and share!
