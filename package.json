@@ -1,0 +1,22 @@
+{
+  "name": "unity-missingreferencesfinder",
+  "displayName": "Missing References Finder",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Unity Editor utility for finding and deleting missing scripts and missing references in Prefabs and ScriptableObjects.",
+  "author": {
+    "name": "VD29",
+    "email": "vysockiy1986@gmail.com",
+    "url": "https://github.com/VD29/Unity-MissingReferencesFinder.git"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "tool",
+    "missing-references",
+    "prefabs",
+    "scriptable-objects",
+    "VD29"
+  ],
+  "type": "git"
+}
