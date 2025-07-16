@@ -66,6 +66,5 @@ Pull requests and feature suggestions are welcome!
 
 📬 Contact
 
-Developed by VD29
-If you find this useful, please star ⭐ the repo and share!
+Developed by VD29 / If you find this useful, please star ⭐ the repo and share!
 
