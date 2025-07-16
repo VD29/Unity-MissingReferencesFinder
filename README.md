@@ -29,7 +29,7 @@ A Unity Editor tool to **find and optionally delete missing references and missi
 
 2. Click + > Add package from git URL...
 
-3. Paste: https://github.com/yourusername/MissingReferencesFinder.git
+3. Paste: https://github.com/VD29/Unity-MissingReferencesFinder.git
 
 📁 Option 2. Manual install
 
